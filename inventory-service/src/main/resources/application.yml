@@ -1,0 +1,4 @@
+server:
+  port: 8084
+application:
+  version: v1
